@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SLIP",
+  "base_artist": "いよわ",
+  "createdAt": "2025-12-03T04:12:04.938508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slip Away",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Slip_Away_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slip N' Slide",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/02_Slip_N'_Slide_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Easy to Slip Away",
+      "artist": "Peter Hammill",
+      "has_synced": false,
+      "path": "select/03_Easy_to_Slip_Away_Peter_Hammill.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Slip Away",
+      "artist": "The Communards",
+      "has_synced": true,
+      "path": "select/04_Don't_Slip_Away_The_Communards.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't slip away",
+      "artist": "Communards",
+      "has_synced": true,
+      "path": "select/05_Don't_slip_away_Communards.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Did You Feel Me Slip Away?",
+      "artist": "BEA1991",
+      "has_synced": false,
+      "path": "select/06_Did_You_Feel_Me_Slip_Away_BEA1991.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slip Away",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/07_Slip_Away_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(Slip and Slide) Suicide",
+      "artist": "Kosheen",
+      "has_synced": false,
+      "path": "select/08_(Slip_and_Slide)_Suicide_Kosheen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let The Right One Slip In - Long Mix",
+      "artist": "Morrissey",
+      "has_synced": false,
+      "path": "select/09_Let_The_Right_One_Slip_In_-_Long_Mix_Morrissey.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Slip Of A Girl",
+      "artist": "Duke Special",
+      "has_synced": false,
+      "path": "select/10_Slip_Of_A_Girl_Duke_Special.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slip Away",
+      "artist": "Ultravox",
+      "has_synced": true,
+      "path": "select/11_Slip_Away_Ultravox.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slip Away",
+      "artist": "Mx",
+      "has_synced": false,
+      "path": "select/12_Slip_Away_Mx.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slip (1998 Unreleased Hybrid Theory Demo) - LPU Rarities",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/13_Slip_(1998_Unreleased_Hybrid_Theory_Demo)_-_LPU_Rarities_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slip (1998 Unreleased Hybrid Theory Demo)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Slip_(1998_Unreleased_Hybrid_Theory_Demo)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Slip of the Lip",
+      "artist": "Ratt",
+      "has_synced": false,
+      "path": "select/15_Slip_of_the_Lip_Ratt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SLIP",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_SLIP_いよわ.txt"
+    }
+  ]
+}
